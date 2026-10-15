@@ -1,0 +1,14 @@
+[
+  {"code":"FE-HMS1","family":"Ferrous","grade":"Heavy melting steel (HMS 1)","notes":"Buyer-specific acceptance criteria apply."},
+  {"code":"CU-BRIGHT","family":"Copper","grade":"Bright bare copper wire","notes":"Verify lawful source; never infer grade by colour alone."},
+  {"code":"AL-EXTRUDE","family":"Aluminium","grade":"Clean aluminium extrusion","notes":"Separate alloy and contamination classes where buyers require."},
+  {"code":"CU-BURNT","family":"Cable","grade":"Burnt/heat-damaged cable — hold","notes":"Escalate for authorised human review; not ordinary auto-priced stock."},
+  {"code":"PCB-SERVER","family":"PCB & e-waste","grade":"High-grade server/telecom boards","notes":"Buyer-specific grade; keep separate from mixed boards."},
+  {"code":"PCB-PC-MB","family":"PCB & e-waste","grade":"Desktop computer motherboards","notes":"Use buyer-defined specifications."},
+  {"code":"PCB-LAPTOP","family":"PCB & e-waste","grade":"Laptop motherboards","notes":"Keep separate where buyer grade schedule distinguishes them."},
+  {"code":"PCB-RAM","family":"PCB & e-waste","grade":"RAM/memory modules","notes":"Separate intact modules from mixed boards."},
+  {"code":"PCB-CPU-CER","family":"PCB & e-waste","grade":"Ceramic CPUs","notes":"Buyer-specific grade; recovery value is not guaranteed."},
+  {"code":"PCB-CPU-FIBRE","family":"PCB & e-waste","grade":"Fibre/modern CPUs","notes":"Buyer-specific grade; do not assume precious-metal yield."},
+  {"code":"PCB-LOW-APPL","family":"PCB & e-waste","grade":"Low-grade appliance boards","notes":"Keep distinct from server/telecom/computer boards."},
+  {"code":"BAT-LITHIUM","family":"Batteries","grade":"Lithium-ion battery packs","notes":"Fire risk; damaged packs require specialist handling."}
+]
